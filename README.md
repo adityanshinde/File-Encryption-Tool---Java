@@ -88,6 +88,8 @@ mvn test
 
 ## Screenshots
 > _Add screenshots of the UI here for better documentation._
+<img width="584" height="464" alt="image" src="https://github.com/user-attachments/assets/731ed23c-e068-45b9-9c5a-0805153c3d5e" />
+
 
 ## License
 MIT License
